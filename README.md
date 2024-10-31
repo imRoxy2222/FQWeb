@@ -1,3 +1,9 @@
+# 没有在LSPosed仓库找到apk,因此fork下来打包了
+# 仅做了打包操作,感谢大佬的无私奉献
+
+
+
+
 # FQWeb
 [![GitHub license](https://img.shields.io/github/license/fengyuecanzhu/FQWeb?style=flat-square)](https://github.com/fengyuecanzhu/FQWeb/blob/master/LICENSE)
 ![Android SDK min 24](https://img.shields.io/badge/Android%20SDK-%3E%3D%2024-brightgreen?style=flat-square&logo=android)
